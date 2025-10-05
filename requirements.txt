@@ -1,0 +1,18 @@
+requests
+dnspython
+python-whois
+tldextract
+beautifulsoup4
+rich
+colorama
+
+# Optional async & speed-up libs
+aiohttp
+aiodns
+
+# Optional geolocation & network features
+geoip2
+ipwhois
+
+# Utilities
+PyYAML
